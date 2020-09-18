@@ -1,0 +1,1 @@
+make sure to upload 'mysql.sql' files into your database.
